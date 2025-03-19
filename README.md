@@ -6,8 +6,11 @@ I'm Alexis a CS/Math major student with an expected graduation of May 2025
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools used:
+
 Language: SQL, Python
+
 Database: MySQL
+
 Visualization: Tableau
 
 
