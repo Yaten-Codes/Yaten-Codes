@@ -1,10 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Yaten-Codes/Yaten-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexis a CS/Math major, student at Whittier College with an expected graduation of 2025
 
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
+🛠️ Tools used:
+Language: SQL, Python
+Database: MySQL
+Visualization: Tableau
+
+
+
+<!--  
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
