@@ -10,7 +10,7 @@ Language: SQL, Python <br/>
 Database: MySQL<br/>
 Visualization: Tableau <br/>
 
-Coursework:
+Coursework:  <br/>
 [Database Management Using SQL](https://github.com/Yaten-Codes/Database-Management-Coursework)
 
 Links to projects:<br/>
