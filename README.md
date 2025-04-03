@@ -7,8 +7,11 @@ Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools used:<br/>
 Language: SQL, Python <br/>
-Database: MySQL\
-Visualization: Tableau
+Database: MySQL<br/>
+Visualization: Tableau <br/>
+
+Coursework:
+[Database Management Using SQL](https://github.com/Yaten-Codes/Database-Management-Coursework)
 
 Links to projects:<br/>
 Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas/blob/main/Energy_Use.ipynb) <br/>
