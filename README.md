@@ -18,7 +18,7 @@ Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yat
 Python: [Discord Bot](https://github.com/Yaten-Codes/Discord-Bot-Project/blob/main/Latest_updated/Book_Bot.py)
 
 Working Project:<br/>
-Machine learning Stock Prediction:
+Machine learning: [Stock Market Prediction](https://github.com/Yaten-Codes/Stock_market_prediction)
 
 
 
