@@ -14,7 +14,7 @@ Coursework:  <br/>
 [Database Management Using SQL](https://github.com/Yaten-Codes/Database-Management-Coursework)
 
 Links to projects:<br/>
-Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas/blob/main/Energy_Use.ipynb) <br/>
+Data Science: [Energy Use Vs Protected Areas Correlation]([https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas/blob/main/Energy_Use.ipynb](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas/tree/main) <br/>
 Python: [Discord Bot](https://github.com/Yaten-Codes/Discord-Bot-Project/blob/main/Latest_updated/Book_Bot.py)
 
 Working Project:<br/>
