@@ -16,7 +16,7 @@ Coursework:  <br/>
 
 Links to projects:<br/>
 Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas) <br/>
-Python: [Discord Bot](https://github.com/Yaten-Codes/Discord-Bot-Project/tree/main).
+Python: [Discord Bot](https://github.com/Yaten-Codes/Discord-Bot-Project/tree/main). <br/>
 Machine learning: [Stock Market Prediction using LightGBM](https://github.com/Yaten-Codes/Stock_market_prediction)
 
 
