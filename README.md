@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alexis a CS/Math major student with an expected graduation of May 2025
+I'm Alexis a CS/Math major, recent grad!
 
 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
