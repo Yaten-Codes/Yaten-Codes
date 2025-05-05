@@ -15,7 +15,7 @@ Coursework:  <br/>
 [Data Science](https://github.com/Yaten-Codes/Data_Science/tree/master)
 
 Links to projects:<br/>
-Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas), [Global Economy Indictors: Analyzing GDP Trends, Sectoral Contributions, and Predictive Modeling​](https://github.com/Yaten-Codes/Global-Economy-Indicators) <br/>
+Data Science: [Energy Use Vs Protected Areas Correlation](https://github.com/Yaten-Codes/Energy-Use-Vs-Protected-Areas), [Global Economy Indictors: Analyzing GDP Trends, and Predictive Modeling​](https://github.com/Yaten-Codes/Global-Economy-Indicators) <br/>
 Python: [Discord Bot](https://github.com/Yaten-Codes/Discord-Bot-Project/tree/main). <br/>
 Machine learning: [Stock Market Prediction using LightGBM](https://github.com/Yaten-Codes/Stock_market_prediction)
 
